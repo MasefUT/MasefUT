@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-[[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MMaffi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Tiago+Azevedo&textBg=false&fontSize=70&fontAlign=36&fontAlignY=50&rotate=0&strokeWidth=0&desc=Estudante+no+UPCA&descSize=20&descAlign=19&descAlignY=67)img>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Tiago+Azevedo&textBg=false&fontSize=70&fontAlign=36&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=19&descAlignY=67)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Tiago+Azevedo&textBg=false&fontSize=70&fontAlign=36&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=19&descAlignY=67" />
 
 <!-- Typing Animation -->
 <p>
