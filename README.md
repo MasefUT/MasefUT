@@ -122,10 +122,7 @@ I'm a **Full-Stack Developer** based in **Vila Nova de Famalicão, Portugal**, p
 
 ## 🌐 GitHub Profile Widget
 
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=MasefUT&data=followers,repositories,stars,commits&theme=viridescent" />
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,r,xml,json,mysql,powershell&frameworks=vue,react,django&libraries=jquery&tools=git,npm,mongodb,nodejs,jupyter&software=windows,linux,vscode&includeNames=true&theme=viridescent" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
