@@ -122,7 +122,7 @@ I'm a **Full-Stack Developer** based in **Vila Nova de Famalicão, Portugal**, p
 
 ## 🌐 GitHub Profile Widget
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,c,git,powershell,github,postman,dart,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,c,git,powershell,github,postman,dart,flutter)](https://skillicons.dev)
 
 ---
 
